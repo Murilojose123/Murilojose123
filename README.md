@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo meu email murilojho2011@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: gostaria de evoluir cada vez mais
-- estou aprendendo codigo
+- ⚡ Fun fact: gostaria de evoluir cada vez mais nos meus codigos
+  
 - 
 <!---
 Murilojose123/Murilojose123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
